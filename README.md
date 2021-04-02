@@ -1220,6 +1220,11 @@ commercially available industrial robot models that you can import, visualize, a
 
 [Back to the Top](https://github.com/mikeroyal/IoT-Guide/blob/main/README.md#table-of-contents)
 
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/93719688-0becd700-fb39-11ea-9b87-3d52f1828aee.png">
+  <br />
+</p>
+
 ## Node.js Learning Resources
 
 [Node.js](https://nodejs.org/) is a JavaScript runtime built on Chrome's V8 JavaScript engine that lets developers write command line tools and server-side scripts outside of a browser.
