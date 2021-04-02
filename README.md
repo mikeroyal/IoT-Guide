@@ -1122,13 +1122,9 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 # Robotics
 
- [Open Source Robotics Foundation](https://www.openrobotics.org/) works with industry, academia, and government to create and support open software and hardware for use in robotics, from research and education to product development.
-
- [ROS/ROS2](https://www.ros.org) is a set of software libraries and tools that help you build robot applications. From drivers to state-of-the-art algorithms, and with powerful developer tools, ROS has what you need for your next robotics project.
- 
- # Robotics
-
 [Back to the Top](https://github.com/mikeroyal/IoT-Guide/blob/main/README.md#table-of-contents)
+
+[Open Source Robotics Foundation](https://www.openrobotics.org/) works with industry, academia, and government to create and support open software and hardware for use in robotics, from research and education to product development.
 
 ## Tools for Robotics
 
@@ -1695,3 +1691,14 @@ commercially available industrial robot models that you can import, visualize, a
 [Carthage](https://github.com/Carthage/Carthage) is intended to be the simplest way to add frameworks to your Cocoa application. Carthage builds your dependencies and provides you with binary frameworks, but you retain full control over your project structure and setup. Carthage does not automatically modify your project files or your build settings.
 
 [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) is reactive extensions to Cocoa frameworks, built on top of ReactiveSwift.
+
+
+## Contribute
+
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/IoT-Guide/pulls).
+
+
+## License
+[Back to the Top](https://github.com/mikeroyal/IoT-Guide/blob/main/README.md#table-of-contents)
+
+Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
