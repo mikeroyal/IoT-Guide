@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/80925254-1271e200-8d43-11ea-9561-8c9fdc40eabc.png">
+ <img src="https://user-images.githubusercontent.com/45159366/146080708-26611923-bea3-4689-9765-f92cc59edc07.png">
   <br />
  IoT Guide
 </h1>
@@ -8,6 +8,10 @@
  
  **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
  
+  <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/146080693-9a8bef64-edab-4a15-a42a-6e31d49b4d9e.png">
+  <br />
+</p>
  
 # Table of Contents
 
@@ -64,12 +68,6 @@
 
 26. [Swift Development](https://github.com/mikeroyal/IoT-Guide/blob/main/README.md#swift-development)
 
-
- <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/113448605-022e1100-93b1-11eb-862e-3d27dcb1e0b9.png">
-  <br />
-  Internet Of Things (IoT)
-</p>
 
 # IoT Learning Resources
  
@@ -382,12 +380,12 @@ SSH: Secure shell is an encrypted protocol implemented in the application layer 
 
 <img src="https://user-images.githubusercontent.com/45159366/105409952-14881380-5be6-11eb-84fc-b07db69698ed.png">
  
- **VMware Cloud First Approach. Source: [VMware](https://www.vmware.com/products/telco-cloud-automation.html), 2020.**
+ **VMware Cloud First Approach. Source: [VMware](https://www.vmware.com/products/telco-cloud-automation.html).**
  
  
  <img src="https://user-images.githubusercontent.com/45159366/105409956-1520aa00-5be6-11eb-8215-735c92a5470c.png">
  
- **VMware Telco Cloud Automation Components. Source: [VMware](https://www.vmware.com/products/telco-cloud-automation.html), 2020.**
+ **VMware Telco Cloud Automation Components. Source: [VMware](https://www.vmware.com/products/telco-cloud-automation.html).**
  
  
 ## Telco Learning Resources
@@ -511,9 +509,9 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 ## Security Tools
 
-[AppArmor](https://www.apparmor.net/) is an effective and easy-to-use Linux application security system. AppArmor proactively protects the operating system and applications from external or internal threats, even zero-day attacks, by enforcing good behavior and preventing both known and unknown application flaws from being exploited. AppArmor supplements the traditional Unix discretionary access control (DAC) model by providing mandatory access control (MAC). It has been included in the mainline Linux kernel since version 2.6.36 and its development has been supported by Canonical since 2009.
-
 [SELinux](https://github.com/SELinuxProject/selinux) is a security enhancement to Linux which allows users and administrators more control over access control. Access can be constrained on such variables as which users and applications can access which resources. These resources may take the form of files. Standard Linux access controls, such as file modes (-rwxr-xr-x) are modifiable by the user and the applications which the user runs. Conversely, SELinux access controls are determined by a policy loaded on the system which may not be changed by careless users or misbehaving applications.
+
+[AppArmor](https://www.apparmor.net/) is an effective and easy-to-use Linux application security system. AppArmor proactively protects the operating system and applications from external or internal threats, even zero-day attacks, by enforcing good behavior and preventing both known and unknown application flaws from being exploited. AppArmor supplements the traditional Unix discretionary access control (DAC) model by providing mandatory access control (MAC). It has been included in the mainline Linux kernel since version 2.6.36 and its development has been supported by Canonical since 2009.
 
 [Control Groups(Cgroups)](https://www.redhat.com/sysadmin/cgroups-part-one) is a Linux kernel feature that allows you to allocate resources such as CPU time, system memory, network bandwidth, or any combination of these resources for user-defined groups of tasks (processes) running on a system.
 
@@ -649,7 +647,7 @@ It is extended by a set of privacy-specific requirements, control objectives and
   Above is a simple diagram of how Differential Privacy-Preserving Data Sharing and Data Mining protects a User's Data
 </p>
 
-## Resources
+## Learning Resources
 
 [Differential Privacy](https://www.microsoft.com/en-us/ai/ai-lab-differential-privacy) is a system that simultaneously enables researchers and analysts to extract useful insights from datasets containing personal information and offers stronger privacy protections. This is achieved by introducing "statistical noise".
 
@@ -749,7 +747,7 @@ It is extended by a set of privacy-specific requirements, control objectives and
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45159366/105645195-db9ea780-5e4e-11eb-8357-fb38b2f06d74.png">
 
-**Building Highly-Availability(HA) Clusters with kubeadm. Source: [Kubernetes.io](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/high-availability/), 2020**
+**Building Highly-Availability(HA) Clusters with kubeadm. Source: [Kubernetes.io](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/high-availability/)**
 </p>
 
 [Google Kubernetes Engine (GKE)](https://cloud.google.com/kubernetes-engine/) is a managed, production-ready environment for running containerized applications.
@@ -1337,7 +1335,7 @@ commercially available industrial robot models that you can import, visualize, a
 
 [Gradle User Manual](https://docs.gradle.org/current/userguide/userguide.html)
 
-## Tools
+## Java Tools & Frameworks
 
 [Java SE](https://www.oracle.com/java/technologies/javase/tools-jsp.html) contains several tools to assist in program development and debugging, and in the monitoring and troubleshooting of production applications. 
 
